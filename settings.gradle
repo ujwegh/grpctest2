@@ -1,0 +1,3 @@
+rootProject.name = 'grpcservice2'
+
+include 'grpcservice2-client'
